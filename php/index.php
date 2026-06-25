@@ -1,7 +1,7 @@
 <?php
 $webhookUrl = 'https://n8n.rahulemathi.in/webhook/n8n-linkedin';
-$webhookUser = 'rahul';   // replace with your Basic Auth username
-$webhookPass = '23129680';   // replace with your Basic Auth password
+$webhookUser = 'demo';   // replace with your Basic Auth username
+$webhookPass = 'demo';   // replace with your Basic Auth password
 
 $success = false;
 $error = null;
